@@ -1,22 +1,8 @@
-.header{
-	background-color: #fcdfae;
-	text-align: center;
-	/*height: 10vh;*/
-  padding: 30px;
 
-
+ * {
+     box-sizing: content-box;
+     margin-left: 2px;
 }
-.ping{
-}
-#ping{
-/*margin-top: 20px;*/
-
-
-
-
-}
-
-
 .text{
 	background-color: #a00000;
 	height: 100vh;
@@ -58,9 +44,9 @@ img {
     margin-top: -105px;
 }
 .navbar{
-	position: relative;
-	min-height: 115px;
-	margin-bottom: 1842px;
+	position: left;
+	min-height: 50px;
+	margin-bottom: 10px;
 	border: 25px solid #8a6d3b;
 	text-align: center;
 	text-shadow: snow;
@@ -68,19 +54,10 @@ img {
 	text-decoration-line: blink;
 	text-orientation: sideways;
 	text-decoration-color: cornflowerblue;
-	margin-right: 290px;
-	margin-left: 980px;
-	font-size: 66px;
+	margin-right: 200px;
+	margin-left: 80px;
+	font-size: 50px;
 }
-  h4	{
-  padding: 5px 30px 6px 0;
-  margin: 10px 0 0 0;
-  border-top: 1px solid #aaab9c;
-  font-size: 2em;
-  text-align: justify;
-  color: cadetblue;
-  }
-
 	  a:link {
 	  color: #800000;
 	  background: transparent;
@@ -100,15 +77,9 @@ img {
 		  -webkit-appearance: media-sliderthumb;
 		  font-weight: bold;
 			}
-			h2 {
-				h2 {
-	 font-size: 40px;
-	 text-align: center;
-	 float: left;
-	 position: absolute;
-	 border-style: dashed;
-	 text-align: center;
-	 font-family: monospace;
-	 -webkit-appearance: media-sliderthumb;
-	 font-weight: bold;
+
+			.header {
+			    background-color: #a28b63;
+			    text-align: inherit;
+			    padding: 259px;
 			}
