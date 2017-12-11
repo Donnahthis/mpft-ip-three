@@ -33,26 +33,27 @@ img {
   float: right;
 }
 #logo {
-	width: 118px;
+  width: 118px;
     height: 126px;
     float: right;
-    margin-right: 80px;
-    margin-top: -105px;
+    margin-right: -10px;
+    margin-top: 30px;
 }
 .navbar{
 	position: left;
 	min-height: 50px;
-	margin-bottom: 10px;
-	border: 25px solid #8a6d3b;
+	margin-bottom: 5px;
+	border: 15px solid #8a6d3b;
 	text-align: center;
 	text-shadow: snow;
 	touch-action: pan-right;
 	text-decoration-line: blink;
 	text-orientation: sideways;
 	text-decoration-color: cornflowerblue;
-	margin-right: 200px;
+	margin-right: 100px;
 	margin-left: 80px;
 	font-size: 50px;
+  height: 315px;
 }
 	  a:link {
 	  color: #800000;
@@ -81,7 +82,7 @@ img {
 			    padding: 50px;
 			}
       #for{
-        margin-top: -902px;
+        margin-top: -517px;
         margin-left: 435px;
         vertical-align: middle;
         box-shadow: black;
@@ -104,17 +105,18 @@ img {
       }
       #tre {
         float: left;
-          margin-top: -1009px;
+          margin-top: -618px;
           margin-left: 729px;
           text-orientation: sideways;
           text-shadow: 10px 10px 10px #120d04;
       }
       #grey {
-    float: left;
-    margin-top: 150px;
-    margin-left: 100px;
-    text-orientation: sideways;
-    text-shadow: 10px 10px 10px #120d04;
+        float: left;
+        margin-top: -540px;
+        margin-left: 100px;
+        text-orientation: sideways;
+        text-shadow: 10px 10px 10px #120d04;
+        font-size: 29px;
       }
       #tbn {
         width: 372px;
@@ -127,6 +129,31 @@ font-size: 17px;
     }
       #fix{
     background-color: #bf3232;
-    height: 100vh;
+    height: 356px;
     margin-left: -21px;
     margin-top: 176px;
+  }
+  #footer {
+    width: 1132px;
+    height: 62px;
+    float: right;
+    background-color: #8d692a;
+    font-size: 48px;
+    margin-top: -346px;
+    margin-right: -316px;
+    text-align: center;
+  }
+  #players {
+    width: 74px;
+    height: 83px;
+    float: left;
+    margin-left: -414px;
+    margin-top: 107px;
+  }
+  #styl {
+    float: left;
+    margin-left: -430px;
+    margin-top: -107px;
+    width: 802px;
+    height: 316px;
+  }
