@@ -43,7 +43,7 @@ img {
 	position: left;
 	min-height: 50px;
 	margin-bottom: 5px;
-	border: 15px solid #8a6d3b;
+	border: 15px solid black;
 	text-align: center;
 	text-shadow: snow;
 	touch-action: pan-right;
@@ -56,7 +56,7 @@ img {
   height: 315px;
 }
 	  a:link {
-	  color: #800000;
+	  color: #bf3232;
 	  background: transparent;
 	  font-weight: bold;
 	  font-size: 0.9em;
@@ -86,7 +86,7 @@ img {
         margin-left: 435px;
         vertical-align: middle;
         box-shadow: black;
-        background: #896f4d;
+        background: #bf3232;
         font-size: 35px;
         box-shadow: 10px 10px 10px 10px #2f2222;
         font-family: sans-serif;
@@ -108,14 +108,14 @@ img {
           margin-top: -618px;
           margin-left: 729px;
           text-orientation: sideways;
-          text-shadow: 10px 10px 10px #120d04;
+          text-shadow: 10px 10px 10px #bf3232;
       }
       #grey {
         float: left;
         margin-top: -540px;
         margin-left: 100px;
         text-orientation: sideways;
-        text-shadow: 10px 10px 10px #120d04;
+        text-shadow: 10px 10px 10px #bf3232;
         font-size: 29px;
       }
       #tbn {
@@ -123,7 +123,7 @@ img {
 margin-left: 2px;
 margin-top: 115px;
 height: 285px;
-background-color: #cf5353;
+background-color: #bf3232;
 box-shadow: 10px 10px;
 font-size: 17px;
     }
@@ -157,3 +157,12 @@ font-size: 17px;
     width: 802px;
     height: 316px;
   }
+  #all{
+  	background-color: #2e6479;
+  	height: auto;
+width: auto;
+}
+#results{
+  height: auto;
+width: auto;
+}
