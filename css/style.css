@@ -208,3 +208,22 @@ div#intro test-box {
     margin-left: auto;
     margin-top: -590px;
 }
+
+#begin {
+  padding-left: 53px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: -227px;
+  font-size: 34px;
+}
+#ready {
+  padding-left: 53px;
+      margin-right: auto;
+      margin-left: auto;
+      margin-top: 256px;
+      width: 333px;
+      height: 297px
+}
+#color {
+    background-color: #fcf8e3;
+}
