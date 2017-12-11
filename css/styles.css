@@ -64,7 +64,7 @@ img {
 	  }
 
 		h3 {
-		  font-size: 20px;
+		  font-size: 50px;
 		  text-align: left;
 		  float: inherit;
 		  position: absolute;
@@ -72,6 +72,7 @@ img {
 		  font-family: monospace;
 		  -webkit-appearance: media-sliderthumb;
 		  font-weight: bold;
+      text-decoration-line: blink;
 			}
 
 			.header {
@@ -100,3 +101,25 @@ img {
           margin-left: 30px;
           margin-top: 50px;
       }
+      #tre {
+    float: left;
+    margin-top: 217px;
+    margin-left: 149px;
+    text-orientation: sideways;
+    text-shadow: 10px 10px 10px #120d04;
+      }
+      #grey {
+    float: left;
+    margin-top: 150px;
+    margin-left: 100px;
+    text-orientation: sideways;
+    text-shadow: 10px 10px 10px #120d04;
+      }
+      #tbn {
+          width: 39%;
+          margin-left: 638px;
+          margin-top: 57px;
+      }
+      #fix{
+      	background-color: #a00000;
+      	height: 100vh;
