@@ -1,4 +1,4 @@
-#PING PONG GAME                                                               8/DECEMBER/2017
+<strong>PING PONG</strong> GAME                                                               8/DECEMBER/2017
 #### This project is specifically designed for games. The most appropriate audience are the children. The game is called Ping Pong. It is more enjoyable when played by a minimum of two people.This is a low level game. However higher levels can be introduced later if need arises. You will enjoy it!!                                                     
 #### By **Dona Adhiambo**
 ## <strong>Description</strong>
