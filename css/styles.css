@@ -36,7 +36,7 @@ img {
 	width: 118px;
     height: 126px;
     float: right;
-    margin-right: 544px;
+    margin-right: 80px;
     margin-top: -105px;
 }
 .navbar{
@@ -90,4 +90,13 @@ img {
     font-family: sans-serif;
     color: #37302a;
     font-style: italic;
+      }
+      .row {
+          margin-right: 223px;
+          margin-left: -15px;
+      }
+      .main2 {
+          height: 91vh;
+          margin-left: 30px;
+          margin-top: 50px;
       }
