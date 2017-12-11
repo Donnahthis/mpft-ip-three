@@ -1,0 +1,418 @@
+
+#landing-page-container-fluid {
+  background-image: url("../img/beautiful_ocean_maldives_516046.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  height: auto;
+  margin-bottom: auto;
+  background-image: cover;
+}
+#about {
+  background-image: url("../img/ocean.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  height: auto;
+  margin-bottom: auto;
+  background-image: cover;
+}
+
+#landing-page-container-fluid1 {
+  background-image: url("../img/images.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  height: auto;
+background-image: cover;
+}
+#landing-now {
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  height: auto;
+  background-color: #45444f;
+  background-image: cover;
+}
+.container#heading {
+  opacity: 1;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.testbox1 {
+  width: 660px;
+      padding: 10px;
+      border: 1px solid gray;
+      height: 450PX;
+      margin-right: 4px;
+      color: #fff;
+      box-shadow: 10px 10px 10px #000000;
+      text-align: center;
+      vertical-align: middle;
+      float: left;
+
+}
+
+img {
+  width: 70px;
+  height: 83px;
+  float: right;
+}
+.testbox2 {
+  width: 64px;
+      padding: 10px;
+      border: 2px solid gray;
+      height: 92px;
+      margin-top: 27px;
+      margin-bottom: 32px;
+      color: cadetblue;
+      text-align: right;
+      vertical-align: right;
+      text-shadow: black;
+}
+
+h1 {
+ background: transparent url("..img/Students_fill_safety_form (1).png");
+ margin-top: 10px;
+ display: block;
+ width: 219px;
+ height: 87px;
+ float: right;
+ color: #7D775C;
+ text-decoration: underline;
+ }
+
+ * {
+     box-sizing: content-box;
+     margin-left: 2px;
+ }
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    float: left;
+    position: absolute;
+    border-style: dashed;
+    text-align: center;
+    font-family: monospace;
+    -webkit-appearance: media-sliderthumb;
+    font-weight: bold;
+
+}
+div#jt {
+	position: absolute;
+	width: 1300px;
+	left: 228px;
+	top: 98px;
+	letter-spacing: 0.1em;
+	color: #A5A3B5;
+	background-color: transparent;
+  float: right;
+}
+
+h3 {
+  font-size: 20px;
+  text-align: left;
+  float: inherit;
+  position: absolute;
+  border-style: dashed;
+  font-family: monospace;
+  -webkit-appearance: media-sliderthumb;
+  font-weight: bold;
+	}
+
+  a:link {
+  color: #800000;
+  background: transparent;
+  font-weight: bold;
+  font-size: 0.9em;
+  text-decoration: none;
+  text-align: center;
+  }
+  .sidebar {
+  padding: 5px 0 6px 30px;
+  margin: 0;
+  border-top: 77px solid #aaab9c;
+  border-right: 7px solid #aaab9c;
+  font-size: 0.9em;
+  color: #cadetblue;
+  text-align: center;
+  }
+  #sidebar	{
+  display: block;
+  width: 100%;
+  color: #aaab9c;
+  padding: 2px 0;
+  border-width: 1px;
+  border-color: #ffe #aaab9c #ccc #ffe;
+  border-style: solid;
+  text-decoration: none;
+  text-align: center;
+  float: left;
+  }
+
+  h4	{
+  padding: 5px 30px 6px 0;
+  margin: 10px 0 0 0;
+  border-top: 1px solid #aaab9c;
+  font-size: 2em;
+  text-align: justify;
+  color: cadetblue;
+  }
+  .testbox3 {
+    width: 64px;
+        padding: 10px;
+        border: 2px solid gray;
+        height: 92px;
+        margin: 0;
+        color: cadetblue;
+        text-align: center;
+        vertical-align: right;
+        text-shadow: black;
+  }
+  .testbox4 {
+    width: 64px;
+    padding: 10px;
+    border: 2px solid gray;
+    height: 92px;
+    margin: 0;
+    color: cadetblue;
+    text-align: justify;
+  }
+  .testbox5 {
+    width: 64px;
+        padding: 10px;
+        border: 2px solid gray;
+        height: 92px;
+        margin: 0;
+        color: cadetblue;
+        text-align: right;
+        vertical-align: right;
+        text-shadow: black;
+  }
+
+#me {
+    width: 440px;
+    height: 522px;
+    float: left;
+}
+
+.container#head {
+  opacity: 2;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.testbox3 {
+        width: 760px;
+        padding: 10px;
+        border: 2px solid gray;
+        height: 600PX;
+        margin-right: 4px;
+        color: black;
+        box-shadow: 10px 10px 10px #000000;
+        text-align: left;
+        vertical-align: middle;
+        float: left;
+}
+
+.navbar{
+    position: relative;
+    min-height: 115px;
+    margin-bottom: 43px;
+    border: 25px solid #8a6d3b;
+    text-align: center;
+    text-shadow: snow;
+    touch-action: pan-right;
+    text-decoration-line: blink;
+    text-orientation: sideways;
+    text-decoration-color: cornflowerblue;
+    margin-right: 61px;
+    margin-left: 91px;
+    font-size: 50px;
+}
+#end{
+    position: relative;
+    min-height: 90px;
+    margin-bottom: 20px;
+    border: 15px solid #8a6d3b;
+    text-align: center;
+    text-shadow: snow;
+    touch-action: pan-right;
+    text-decoration-line: blink;
+    text-orientation: italic;
+    text-decoration-color: cornflowerblue;
+    margin-right: 40px;
+    margin-left: 40px;
+    font-size: 30px;
+    margin-top: 200px;
+    }
+.content-box {
+	background-image: url("../img/images.jpg") no-repeat bottom right;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+  height: 127px;
+  background-image: cover;
+	}
+  #here {
+  	margin: 0;
+  	padding: 0;
+  	text-align: left;
+    height: 127px;
+    }
+    #summary {
+    background-image: url("../img/clouds.jpg") no-repeat bottom right;
+    margin-top: 142px;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0;
+    text-align: left;
+    font-size: 28px;
+    background-image: cover;
+}
+	container-fluid#navbarme {
+	line-height: 2.5ex;
+	display: block;
+	padding-top: 5px;
+	margin-bottom: 5px;
+	list-style-type: none;
+	margin: 60px;
+	text-align: center;
+	}
+
+	* {
+	    box-sizing: border-box;
+	    -moz-osx-font-smoothing: grayscale;
+	    -webkit-font-smoothing: antialiased;
+	    font-smoothing: antialiased;
+	    text-rendering: optimizeLegibility;
+	    outline: none;
+	}
+
+	.navbar{
+	    position: relative;
+	    min-height: 115px;
+	    margin-bottom: 43px;
+	    border: 25px solid #8a6d3b;
+	    text-align: center;
+	    text-shadow: snow;
+	    touch-action: pan-right;
+	    text-decoration-line: blink;
+	    text-orientation: sideways;
+	    text-decoration-color: cornflowerblue;
+	    margin-right: 61px;
+	    margin-left: 91px;
+			font-size: 50px;
+	}
+	header h2 {
+		width: 253px;
+		height: 34px;
+		position: absolute;
+		top: 150px;
+		left: 216px;
+		text-indent: 100%;
+		white-space: nowrap;
+		overflow: hidden;
+		}
+
+		#gly {
+	    width: 685px;
+	    padding: 98px;
+	    border: 1px solid gray;
+	    height: 300PX;
+	    margin-right: 4px;
+	    margin-left: 67px;
+	    margin-top: 107px;
+	    color: #8b7777;
+	    box-shadow: 10px 10px 10px #000000;
+	    text-align: center;
+	    vertical-align: middle;
+	    float: left;
+	    background-color: #868e96;
+      font-size: 11px;
+	}
+	.content-box{
+		height: 50px;
+
+		}
+		img {
+		    width: 116px;
+		    height: 101px;
+		    float: right;
+			}
+		h6 {
+		    width: 551px;
+		    height: 19px;
+		    margin-bottom: 116px;
+		    margin-top: -100px;
+		    padding: 10px;
+		    font-size: 30px;
+		    font-style: normal;
+		    text-align: left;
+		}
+
+		p {
+		 text-transform: capitalize;
+		 text-decoration-style: dotted;
+		 text-decoration-color: skyblue;
+		 text-underline-position: inherit;
+		 touch-action: manipulation;
+		}
+
+		.testbox4 {
+			width: 64px;
+			padding: 10px;
+			border: 2px solid gray;
+			height: 92px;
+			margin: 0;
+			color: cadetblue;
+			text-align: justify;
+      margin-bottom: 20px;
+		}
+
+		.container#men {
+    opacity: 2;
+    margin-left: -433px;
+    margin-top: 375px;
+    margin-bottom: 137px;
+    min-width: 2px;
+    margin-right: 200px
+   }
+
+   .row {
+       margin-right: 167px;
+       margin-left: -15px;
+       float: right;
+       margin-top: 15px;
+       margin-bottom: 21px;
+   }
+
+   #write{
+    float: inherit;
+    width: -40px;
+    margin-left: 60px;
+   }
+   .sidenav {
+    height: auto;
+    width: 327px;
+    position: relative;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #373737;
+    overflow-x: hidden;
+    transition: 17.5s;
+    padding-top: -260px;
+    text-align: center;
+    padding-top: -260px;
+    font-size: 60px;
+}
+#styl {
+  float: left;
+  margin-left: -430px;
+  margin-top: -107px;
+  width: 802px;
+  height: 316px;
+}
