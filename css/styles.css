@@ -43,7 +43,7 @@ img {
 	position: left;
 	min-height: 50px;
 	margin-bottom: 5px;
-	border: 15px solid black;
+	border: 15px solid #3d3030;
 	text-align: center;
 	text-shadow: snow;
 	touch-action: pan-right;
@@ -137,7 +137,7 @@ font-size: 17px;
     width: 1132px;
     height: 62px;
     float: right;
-    background-color: #8d692a;
+    background-color: #bf3232;
     font-size: 48px;
     margin-top: -346px;
     margin-right: -316px;
