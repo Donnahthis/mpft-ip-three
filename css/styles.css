@@ -116,10 +116,16 @@ img {
     text-shadow: 10px 10px 10px #120d04;
       }
       #tbn {
-          width: 39%;
-          margin-left: 638px;
-          margin-top: 57px;
-      }
+        width: 372px;
+margin-left: 2px;
+margin-top: 115px;
+height: 285px;
+background-color: #cf5353;
+box-shadow: 10px 10px;
+font-size: 17px;
+    }
       #fix{
-      	background-color: #a00000;
-      	height: 100vh;
+    background-color: #bf3232;
+    height: 100vh;
+    margin-left: -21px;
+    margin-top: 176px;
