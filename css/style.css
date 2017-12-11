@@ -1,6 +1,8 @@
 * {
-     box-sizing: content-box;
-     margin-left: 2px;
+  box-sizing: content-box;
+  margin-left: 2px;
+  font-size: 19px;
+  color: #20196e;
  }
 
 #me {
@@ -24,8 +26,7 @@
     font-size: 50px;
 }
 #end{
-    position: relative;
-    min-height: 90px;
+  position: relative;
     margin-bottom: 20px;
     border: 15px solid #8a6d3b;
     text-align: center;
@@ -36,8 +37,8 @@
     text-decoration-color: cornflowerblue;
     margin-right: 40px;
     margin-left: 40px;
-    font-size: 30px;
-    margin-top: 200px;
+    margin-top: 91px;
+    height: 362px;
     }
 	.navbar{
 	    position: relative;
@@ -194,4 +195,16 @@ font-weight: bold;
 font-size: 0.9em;
 text-decoration: none;
 text-align: center;
+}
+div#intro test-box {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 41px;
+}
+#link {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -590px;
 }
