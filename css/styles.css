@@ -81,16 +81,17 @@ img {
 			    padding: 50px;
 			}
       #for{
-    margin-top: 296px;
-    margin-left: -244px;
-    vertical-align: middle;
-    box-shadow: black;
-    background: #896f4d;
-    font-size: 35px;
-    box-shadow: 10px 10px 10px 10px #2f2222;
-    font-family: sans-serif;
-    color: #37302a;
-    font-style: italic;
+        margin-top: -902px;
+        margin-left: 435px;
+        vertical-align: middle;
+        box-shadow: black;
+        background: #896f4d;
+        font-size: 35px;
+        box-shadow: 10px 10px 10px 10px #2f2222;
+        font-family: sans-serif;
+        color: #37302a;
+        font-style: italic;
+        margin-right: -401px;
       }
       .row {
           margin-right: 223px;
@@ -102,11 +103,11 @@ img {
           margin-top: 50px;
       }
       #tre {
-    float: left;
-    margin-top: 217px;
-    margin-left: 149px;
-    text-orientation: sideways;
-    text-shadow: 10px 10px 10px #120d04;
+        float: left;
+          margin-top: -1009px;
+          margin-left: 729px;
+          text-orientation: sideways;
+          text-shadow: 10px 10px 10px #120d04;
       }
       #grey {
     float: left;
